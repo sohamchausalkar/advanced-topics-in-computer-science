@@ -1,1 +1,3 @@
-# advanced-topics-in-computer-science
+# Adanced Topics in CS
+## - Data Structures 
+## Algorithms
